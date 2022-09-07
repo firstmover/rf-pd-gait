@@ -3,7 +3,7 @@
 This repo includes the code for the Science Translational Medicine paper [Liu et al. 2022]().
 
 <br>
-<a href="https://rf-pd-gait.csail.mit.edu/"><img src="https://rf-pd-gait.csail.mit.edu/static/overview.svg"></a>
+<a href="https://rf-pd-gait.csail.mit.edu/"><img src="https://rf-pd-gait.csail.mit.edu/static/figs/overview.svg"></a>
 <hr/>
 
 ### Environment and dependency
