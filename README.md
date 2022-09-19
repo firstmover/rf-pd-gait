@@ -2,6 +2,12 @@
 
 This repo includes the code for the Science Translational Medicine paper [Liu et al. 2022]().
 
+![Python 3.9](https://img.shields.io/badge/Python-3.9%2B-brightgreen.svg)
+![R](https://img.shields.io/badge/R-3.6.1-blue)
+[![GitHub Repo Stars](https://img.shields.io/github/stars/firstmover/rf-pd-gait?label=Stars&logo=github&color=red)](https://github.com/firstmover/rf-pd-gait)
+[![Project](https://img.shields.io/badge/project-rf--pd--gait-lightgrey)](https://rf-pd-gait.csail.mit.edu)
+[![Tweet](https://img.shields.io/twitter/url?url=https%3A%2F%2Fshields.io)](https://twitter.com/intent/tweet?text=Wow%2C+a+cool+project+from+MIT%3A+https%3A%2F%2Frf-pd-gait.csail.mit.edu%2F)
+
 <br>
 <a href="https://rf-pd-gait.csail.mit.edu/"><img src="https://rf-pd-gait.csail.mit.edu/static/figs/overview.svg"></a>
 <hr/>
@@ -134,5 +140,3 @@ to be added.
 ### Contact
 
 Email: liuyc@mit.edu
-
-<!--Project homepage: [homepage](https://rf-pd-gait.csail.mit.edu/)-->
