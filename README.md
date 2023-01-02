@@ -135,7 +135,21 @@ This repo is licensed under the MIT License and the copyright belongs to all rf-
 
 ### Citation
 
-to be added.
+```
+@article{liu2022monitoring,
+  title={Monitoring gait at home with radio waves in Parkinsonâ€™s disease: A marker of severity, progression, and medication response},
+  author={Liu, Yingcheng and Zhang, Guo and Tarolli, Christopher G and Hristov, Rumen and Jensen-Roberts, Stella and Waddell, Emma M and Myers, Taylor L and Pawlik, Meghan E and Soto, Julia M and Wilson, Renee M and others},
+  journal={Science Translational Medicine},
+  volume={14},
+  number={663},
+  pages={eadc9669},
+  year={2022},
+  publisher={American Association for the Advancement of Science}
+  doi={10.1126/scitranslmed.adc9669},
+  URL={https://www.science.org/doi/abs/10.1126/scitranslmed.adc9669},
+  eprint={https://www.science.org/doi/pdf/10.1126/scitranslmed.adc9669}
+}
+```
 
 ### Contact
 
